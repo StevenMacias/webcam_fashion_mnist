@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # model 
-./model.h5
+model.h5/
